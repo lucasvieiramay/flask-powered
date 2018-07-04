@@ -55,6 +55,7 @@ List of companies using Flask framework - who is using Flask?
 - [Viva Real](https://www.vivareal.com.br/)
 - [WEG](http://www.weg.net)
 - [Ypy Tecnologia de Uberlândia](http://www.ypytecnologia.com.br/)
+- [Yungas](http://www.yungas.com.br)
 - [ZAP Imóveis](https://www.zapimoveis.com.br/)
 
 ## Ukraine
